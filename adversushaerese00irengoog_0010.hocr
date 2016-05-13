@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./adversushaerese00irengoog_0010.png"; bbox 0 0 3172 5044; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 493 1689 859 1797">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 493 1689 859 1797">
+     <span class='ocr_line' id='line_1_1' title="bbox 493 1689 859 1797; baseline 0.008 -3"><span class='ocrx_word' id='word_1_1' title='bbox 493 1689 859 1797; x_wconf 84' lang='lat' dir='ltr'>IRENAEI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 278 1983 1071 2060">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 278 1983 1071 2060">
+     <span class='ocr_line' id='line_1_2' title="bbox 278 1983 1071 2060; baseline 0.001 -4"><span class='ocrx_word' id='word_1_2' title='bbox 278 1983 637 2059; x_wconf 85' lang='lat' dir='ltr'><strong>DETECTIONIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 665 1984 735 2057; x_wconf 86' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_4' title='bbox 763 1983 1071 2060; x_wconf 87' lang='lat' dir='ltr'>EVERSIONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 178 2231 1164 2309">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 178 2231 1164 2309">
+     <span class='ocr_line' id='line_1_3' title="bbox 178 2231 1164 2309; baseline 0.004 -5"><span class='ocrx_word' id='word_1_5' title='bbox 178 2231 356 2306; x_wconf 86' lang='lat' dir='ltr'>FALSO</span> <span class='ocrx_word' id='word_1_6' title='bbox 391 2233 826 2308; x_wconf 87' lang='lat' dir='ltr'>COGNOMINATAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 859 2233 1164 2309; x_wconf 86' lang='lat' dir='ltr'>AGNITIONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 496 2496 850 2579">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 496 2496 850 2579">
+     <span class='ocr_line' id='line_1_4' title="bbox 496 2496 850 2579; baseline 0.006 -17"><span class='ocrx_word' id='word_1_8' title='bbox 496 2496 610 2564; x_wconf 88' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_9' title='bbox 641 2497 850 2579; x_wconf 88' lang='lat' dir='ltr'>QUINQUE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 4 1590 5044">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 4 1590 5044">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 4 1590 5044; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 4 1590 5044; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
